@@ -1,0 +1,13 @@
+/* Style for button */
+button.btn-primary {
+	color: blue;
+	border: none;
+	cursor: pointer;
+	width: fit-content;
+	text-wrap: nowrap;
+}
+
+button:disabled {
+	background-color: #cccccc;
+	cursor: not-allowed;
+}

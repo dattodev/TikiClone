@@ -1,0 +1,7 @@
+.slide_btn {
+	opacity: 0;
+}
+
+.slider:hover .slide_btn {
+	opacity: 1;
+}
